@@ -19,8 +19,6 @@ body{
 .game{
     width: 560px;
     height: 560px;
-    border-color: black;
-    border-style: ridge;
     margin: auto;
 }
 #minesweeper{
